@@ -16,7 +16,11 @@ The dataset used is the SMS Spam Collection dataset, which contains 5,572 SMS me
 *How it works
 
 1️⃣ The dataset is loaded and preprocessed.
+
 2️⃣ Text data is vectorized using TF-IDF (TfidfVectorizer).
+
 3️⃣ A Naive Bayes classifier (MultinomialNB) is trained on the vectorized text.
+
 4️⃣ The model is evaluated on a test set (accuracy and other metrics printed).
+
 5️⃣ You can enter your own message and see live predictions
