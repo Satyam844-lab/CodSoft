@@ -1,14 +1,22 @@
 **Bank Customer Churn Prediction**
+
 A machine learning project to predict which bank customers are likely to leave ("churn") using logistic regression on real customer data. This repository includes all steps from data preparation to evaluation and a user-friendly way to enter new customer details for live predictions.
 
 **🚀 Project Overview**
-Problem: Customer churn (leaving the bank) is costly for businesses. Predicting who is likely to churn helps the bank retain valuable customers through targeted interventions.
 
-Objective: Use historical customer data to build a model that predicts churn, allowing for early retention efforts.
+**Problem**
+
+Customer churn (leaving the bank) is costly for businesses. Predicting who is likely to churn helps the bank retain valuable customers through targeted interventions.
+
+**Objective **
+
+Use historical customer data to build a model that predicts churn, allowing for early retention efforts.
 
 Approach: Step-by-step workflow using Python, pandas, and scikit-learn, focused on clarity and learning.
 
-📂 Dataset
+**📂 Dataset**
+
+
 Name: Bank Customer Churn Prediction (from Kaggle)
 Link:[Bank Customer Churn](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
 
@@ -22,8 +30,10 @@ Target: Exited (1 = churned/left, 0 = stayed)
 Key features:
 
 CreditScore, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary, Geography, Gender
+**
+🛠️ Workflow & Methods**
 
-🛠️ Workflow & Methods
+
 Data Cleaning:
 
 Dropped irrelevant columns: RowNumber, CustomerId, Surname
