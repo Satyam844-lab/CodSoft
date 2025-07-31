@@ -79,10 +79,10 @@ Logistic regression gives a strong baseline but struggles with imbalanced data (
 
 Possible improvements:
 
-Use advanced models (Random Forest, XGBoost)
+   ->Use advanced models (Random Forest, XGBoost)
 
-Balance the dataset or adjust class weights
+   ->Balance the dataset or adjust class weights
 
-Feature engineering
+   ->Feature engineering
 
-Build a GUI or deploy as a web app
+   ->Build a GUI or deploy as a web app
